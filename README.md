@@ -5,7 +5,7 @@ Features: Current Weather: Users can get the current weather conditions for a sp
 
 Technologies Used:
 
-Programming Language: HTML, CSS, TypeScript.
+Programming Language: HTML, CSS, javaScript.
 
 APIs: OpenWeatherMap API, Weatherstack API, etc.
 
