@@ -1,0 +1,13 @@
+{
+  "name": "paccys-weather-app",
+  "version": "1.0.0",
+  "description": "The Weather Detection project is designed to provide real-time weather information based on user inputs such as location or city name. It utilizes APIs (Application Programming Interfaces) provided by weather services to fetch and display current weather conditions and forecasts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node App.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
