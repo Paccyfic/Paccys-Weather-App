@@ -1,6 +1,6 @@
 //https://api.openweathermap.org/data/2.5/weather?q=berlin&appid=49770e582688b645f30087634af5d3a1&units=metric
 const apiKey = "49770e582688b645f30087634af5d3a1";
-const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
+const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metricq=";
 
 const searchBox = document.querySelector(".search input");
 const searchBtn = document.querySelector(".search button");
